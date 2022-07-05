@@ -19,4 +19,5 @@ export function Book(title, year, publicationBy, authors) {
   this.year = year;
   this.likedUsers = [];
   this.publicationBy = publicationBy;
+  
 }
